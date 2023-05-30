@@ -1,6 +1,4 @@
 # Grocery-List
-Streamlit app that allows users to select their meals and generate a grocery list. Also allows for the user to utilize generative AI to create additional recipes based on the grocery list
-
 This is a Python script that allows users to create a grocery list by selecting meals from different categories. It also provides recipe suggestions based on the selected grocery items using OpenAI's text generation capabilities.
 
 ## Getting Started
